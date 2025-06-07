@@ -63,6 +63,7 @@ This dashboard empowers **fleet managers, business analysts & executives** to:
 ## 🎯 About the Project  
 Designed as a **professional analytics initiative**, this **dashboard** showcases **expertise in data visualization, operational intelligence & decision-making support**. It demonstrates **proficiency in Power BI, SQL & Excel**, delivering **data-driven storytelling for actionable insights**.  
 
----  
+## 🎯 Demo / Snapshot
+![Image](https://github.com/user-attachments/assets/57fc6314-79ac-44e0-989a-04c958c1091b)
 
 🚀 **Unlock the power of data & make informed decisions with confidence!** 💡  
